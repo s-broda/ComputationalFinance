@@ -1,6 +1,6 @@
 Copyright (c) 2017 [Simon A. Broda](http://www.uva.nl/en/profile/b/r/s.a.broda/s.a.broda.html).
 
-This works is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/):
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/):
 
 ## Creative Commons Attribution-ShareAlike 4.0 International Public License
 
