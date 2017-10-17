@@ -29,7 +29,7 @@ z
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
-      <path clip-path="url(#p5d1483b03a)" d="M 194.052017 315 
+      <path clip-path="url(#pae96178097)" d="M 194.052017 315 
 L 194.052017 43.2 
 " style="fill:none;stroke:#ffffff;stroke-linecap:round;"/>
      </g>
@@ -212,7 +212,7 @@ z
     </g>
     <g id="xtick_2">
      <g id="line2d_3">
-      <path clip-path="url(#p5d1483b03a)" d="M 258.3 315 
+      <path clip-path="url(#pae96178097)" d="M 258.3 315 
 L 258.3 43.2 
 " style="fill:none;stroke:#ffffff;stroke-linecap:round;"/>
      </g>
@@ -264,62 +264,18 @@ z
      </g>
     </g>
     <g id="text_3">
-     <!-- $R_{PF,t+1}$ -->
-     <defs>
-      <path d="M 16.890625 72.90625 
-L 39.703125 72.90625 
-Q 49.65625 72.90625 54.875 68.265625 
-Q 60.109375 63.625 60.109375 54.6875 
-Q 60.109375 42.671875 52.390625 35.984375 
-Q 44.671875 29.296875 30.71875 29.296875 
-L 18.3125 29.296875 
-L 12.59375 0 
-L 2.6875 0 
-z
-M 25.203125 64.796875 
-L 19.921875 37.40625 
-L 32.328125 37.40625 
-Q 40.71875 37.40625 45.203125 41.703125 
-Q 49.703125 46 49.703125 54 
-Q 49.703125 59.125 46.65625 61.953125 
-Q 43.609375 64.796875 38.09375 64.796875 
-z
-" id="DejaVuSans-Oblique-50"/>
-      <path d="M 16.890625 72.90625 
-L 58.6875 72.90625 
-L 57.078125 64.59375 
-L 25.09375 64.59375 
-L 20.90625 43.109375 
-L 49.8125 43.109375 
-L 48.1875 34.8125 
-L 19.28125 34.8125 
-L 12.5 0 
-L 2.6875 0 
-z
-" id="DejaVuSans-Oblique-46"/>
-      <path d="M 11.71875 12.40625 
-L 22.015625 12.40625 
-L 22.015625 4 
-L 14.015625 -11.625 
-L 7.71875 -11.625 
-L 11.71875 4 
-z
-" id="DejaVuSans-2c"/>
-     </defs>
-     <g style="fill:#262626;" transform="translate(239.105 345.83)scale(0.11 -0.11)">
+     <!-- $R_{t+1}$ -->
+     <g style="fill:#262626;" transform="translate(245.595 345.771563)scale(0.11 -0.11)">
       <use transform="translate(0 0.09375)" xlink:href="#DejaVuSans-Oblique-52"/>
-      <use transform="translate(69.482422 -16.3125)scale(0.7)" xlink:href="#DejaVuSans-Oblique-50"/>
-      <use transform="translate(111.694336 -16.3125)scale(0.7)" xlink:href="#DejaVuSans-Oblique-46"/>
-      <use transform="translate(151.958008 -16.3125)scale(0.7)" xlink:href="#DejaVuSans-2c"/>
-      <use transform="translate(187.84668 -16.3125)scale(0.7)" xlink:href="#DejaVuSans-Oblique-74"/>
-      <use transform="translate(228.930664 -16.3125)scale(0.7)" xlink:href="#DejaVuSans-2b"/>
-      <use transform="translate(301.220703 -16.3125)scale(0.7)" xlink:href="#DejaVuSans-31"/>
+      <use transform="translate(69.482422 -16.3125)scale(0.7)" xlink:href="#DejaVuSans-Oblique-74"/>
+      <use transform="translate(110.566406 -16.3125)scale(0.7)" xlink:href="#DejaVuSans-2b"/>
+      <use transform="translate(182.856445 -16.3125)scale(0.7)" xlink:href="#DejaVuSans-31"/>
      </g>
     </g>
    </g>
    <g id="matplotlib.axis_2">
     <g id="text_4">
-     <!-- $f(R_{PF,t+1})$ -->
+     <!-- $f(R_{t+1})$ -->
      <defs>
       <path d="M 47.796875 75.984375 
 L 46.390625 68.5 
@@ -367,22 +323,19 @@ Q 14.5 64.65625 8.015625 75.875
 z
 " id="DejaVuSans-29"/>
      </defs>
-     <g style="fill:#262626;" transform="translate(56.25 204.51)rotate(-90)scale(0.11 -0.11)">
+     <g style="fill:#262626;" transform="translate(56.7175 198.02)rotate(-90)scale(0.11 -0.11)">
       <use transform="translate(0 0.015625)" xlink:href="#DejaVuSans-Oblique-66"/>
       <use transform="translate(35.205078 0.015625)" xlink:href="#DejaVuSans-28"/>
       <use transform="translate(74.21875 0.015625)" xlink:href="#DejaVuSans-Oblique-52"/>
-      <use transform="translate(143.701172 -16.390625)scale(0.7)" xlink:href="#DejaVuSans-Oblique-50"/>
-      <use transform="translate(185.913086 -16.390625)scale(0.7)" xlink:href="#DejaVuSans-Oblique-46"/>
-      <use transform="translate(226.176758 -16.390625)scale(0.7)" xlink:href="#DejaVuSans-2c"/>
-      <use transform="translate(262.06543 -16.390625)scale(0.7)" xlink:href="#DejaVuSans-Oblique-74"/>
-      <use transform="translate(303.149414 -16.390625)scale(0.7)" xlink:href="#DejaVuSans-2b"/>
-      <use transform="translate(375.439453 -16.390625)scale(0.7)" xlink:href="#DejaVuSans-31"/>
-      <use transform="translate(422.709961 0.015625)" xlink:href="#DejaVuSans-29"/>
+      <use transform="translate(143.701172 -16.390625)scale(0.7)" xlink:href="#DejaVuSans-Oblique-74"/>
+      <use transform="translate(184.785156 -16.390625)scale(0.7)" xlink:href="#DejaVuSans-2b"/>
+      <use transform="translate(257.075195 -16.390625)scale(0.7)" xlink:href="#DejaVuSans-31"/>
+      <use transform="translate(304.345703 0.015625)" xlink:href="#DejaVuSans-29"/>
      </g>
     </g>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p5d1483b03a)" d="M 63 315 
+    <path clip-path="url(#pae96178097)" d="M 63 315 
 L 63 314.999034 
 L 65.674531 314.998643 
 L 68.349062 314.998102 
@@ -438,7 +391,7 @@ z
 " style="fill:#b2b2b2;stroke:#808080;stroke-linejoin:miter;stroke-width:0.3;"/>
    </g>
    <g id="line2d_5">
-    <path clip-path="url(#p5d1483b03a)" d="M 63 314.999034 
+    <path clip-path="url(#pae96178097)" d="M 63 314.999034 
 L 66.945455 314.998408 
 L 70.890909 314.997401 
 L 74.836364 314.995802 
@@ -630,7 +583,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p5d1483b03a">
+  <clipPath id="pae96178097">
    <rect height="271.8" width="390.6" x="63" y="43.2"/>
   </clipPath>
  </defs>
