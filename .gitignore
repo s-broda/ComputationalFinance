@@ -1,6 +1,6 @@
 *checkpoint.ipynb
 /other_slides
-*.pdf
+/books
 *.txt
 *.npy
 *.npz
