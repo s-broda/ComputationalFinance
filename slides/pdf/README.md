@@ -1,5 +1,5 @@
-# To create a pdf file from a Jupyter notebook:
-
+## Converting the Lecture Slides to PDF
+To convert the Jupyter notebooks to pdfs, 
 * Install node.js 7.x; e.g., in Ubuntu: 
   * `curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -`
   * `sudo apt-get install -y nodejs`
