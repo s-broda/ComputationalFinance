@@ -6,3 +6,8 @@
 *.npz
 *.csv
 *.html
+*.aux
+*.log
+*.backup
+*.docx
+
