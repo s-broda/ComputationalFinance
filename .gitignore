@@ -12,3 +12,7 @@
 *.backup
 *.docx
 *.sty
+*.bak
+*.bbl
+*.blg
+*.synctex
