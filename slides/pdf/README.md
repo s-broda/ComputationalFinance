@@ -1,6 +1,6 @@
-## Converting the Lecture Slides to PDF
-To convert the Jupyter notebooks to pdfs, 
-* Install node.js 7.x, NOT 8.x or 9.x; e.g., in Ubuntu: 
+## Converting the Lecture Slides to PDF in Ubuntu
+### Manually
+* Install node.js 7.x, NOT 8.x or 9.x: 
   * `curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -`
   * `sudo apt-get install -y nodejs`
 * Install the RISE plugin for Jupyter at precisely version 5.0.0:
@@ -12,4 +12,9 @@ To convert the Jupyter notebooks to pdfs,
   * `jupyter notebook`
 * Finally, use decktape to convert the slides. E.g., for Week 1, 
   * `` `npm bin`/decktape -s 1680x1050 rise http://localhost:8888/notebooks/week1.ipynb?token=<token> week1.pdf``
+### Automatically
+* The bash script `makeslides.sh` will automatically convert all slides to pdf and also create a file `ComputationalFinance.pdf` containing all slides:
+  * `cd /path/to/ComputationalFinance/slides/pdf`
+  * `chmod +x makeslides.sh`
+  * `./makeslides.sh`
 
