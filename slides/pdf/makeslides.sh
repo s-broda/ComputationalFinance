@@ -1,7 +1,7 @@
 #!/bin/bash
 jupyter notebook --notebook-dir='..' --no-browser &
 sleep 3
-jnserver=$(jupyter notebook list | grep "http://localhost" | tail -1 | cut -d' ' -f1)
+jnserver=$(jupyter notebook list | grep "http://localhost" | head -1 | cut -d' ' -f1)
 for (( i=1; i<=6; i++))
 	do
 		addr=${jnserver:0:22}notebooks/week$i.ipynb${jnserver:22}
